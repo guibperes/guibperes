@@ -7,6 +7,8 @@
 
 My name is Guilherme, I'm a web developer. I love to learn, so I dedicate myself to learn more about Javascript, Java and its libraries, to create applications that deliver value to those who use them. I believe that a good application comes with tests and continuous integration and these are fundamental requirements.
 
+__"I like challenges that take me beyond what I am capable of!"__
+
 <br/>:books: Software Engineer and Web Developer
 <br/>:computer: Linux is my $HOME
 <br/>:coffee: Javascript, Typescript, NodeJS, Java
