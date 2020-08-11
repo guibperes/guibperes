@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there :v:
 
-<!--
-**guibperes/guibperes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/guibperes)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/guilherme-beidaki-peres-5b4904196)
+[![ProtonMail Badge](https://img.shields.io/badge/-ProtonMail-8B89CC?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto://guibperes@protonmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/guibperes)
 
-Here are some ideas to get you started:
+My name is Guilherme, I'm a web developer. I love to learn, so I dedicate myself to learn more about Javascript, Java and its libraries, to create applications that deliver value to those who use them. I believe that a good application comes with tests and continuous integration and these are fundamental requirements.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>:books: Software Engineer and Web Developer
+<br/>:computer: Linux is my $HOME
+<br/>:coffee: Javascript, Typescript, NodeJS, Java
+<br/>:memo: In love with Python and Go
+
+Feel free to add me on LinkedIn and call me on Instagram! Cheers :beers:
