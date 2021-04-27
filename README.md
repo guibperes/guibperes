@@ -27,15 +27,15 @@ Feel free to call me on LinkedIn! Cheers :beers:
 
 ### Nice Repositories
 
-<a align="left" href="https://github.com/anuraghazra/github-readme-stats">
+<a align="justify" href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=guibperes&repo=zup-lottery" />
 </a>
-<a align="right" href="https://github.com/anuraghazra/github-readme-stats">
+<a align="justify" href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=guibperes&repo=zup-lottery" />
 </a>
-<a align="left" href="https://github.com/anuraghazra/github-readme-stats">
+<a align="justify" href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=guibperes&repo=zup-lottery" />
 </a>
-<a align="right" href="https://github.com/anuraghazra/github-readme-stats">
+<a align="justify" href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=guibperes&repo=zup-lottery" />
 </a>
