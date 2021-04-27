@@ -27,39 +27,41 @@ Feel free to call me on LinkedIn! Cheers :beers:
 
 ### Nice Repositories
 
-<a align="justify" href="https://github.com/guibperes/serverless-lambda-typescript-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guibperes&repo=serverless-lambda-typescript-api" />
-</a>
-<a align="justify" href="https://github.com/guibperes/graphql-library-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guibperes&repo=graphql-library-project" />
-</a>
-<a align="justify" href="https://github.com/guibperes/typescript-solid-api-rest">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guibperes&repo=typescript-solid-api-rest" />
-</a>
-<a align="justify" href="https://github.com/guibperes/express-api-no-orm">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guibperes&repo=express-api-no-orm" />
-</a>
-<a align="justify" href="https://github.com/guibperes/express-api-sequelize">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guibperes&repo=express-api-sequelize" />
-</a>
-<a align="justify" href="https://github.com/guibperes/show-screen">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guibperes&repo=show-screen" />
-</a>
-<a align="justify" href="https://github.com/guibperes/remote-slide-controller">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guibperes&repo=remote-slide-controller" />
-</a>
-<a align="justify" href="https://github.com/guibperes/guibperes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guibperes&repo=guibperes" />
-</a>
-<a align="justify" href="https://github.com/guibperes/zup-lottery">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guibperes&repo=zup-lottery" />
-</a>
-<a align="justify" href="https://github.com/guibperes/library-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guibperes&repo=library-api" />
-</a>
-<a align="justify" href="https://github.com/guibperes/spring-api-dockerfile">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guibperes&repo=spring-api-dockerfile" />
-</a>
-<a align="justify" href="https://github.com/guibperes/nextcloud-deploy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guibperes&repo=nextcloud-deploy" />
-</a>
+<div style="display:table;width:100%;">
+  <a align="justify" style="display:table-cell;" href="https://github.com/guibperes/serverless-lambda-typescript-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guibperes&repo=serverless-lambda-typescript-api" />
+  </a>
+  <a align="justify" style="display:table-cell;" href="https://github.com/guibperes/graphql-library-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guibperes&repo=graphql-library-project" />
+  </a>
+  <a align="justify" style="display:table-cell;" href="https://github.com/guibperes/typescript-solid-api-rest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guibperes&repo=typescript-solid-api-rest" />
+  </a>
+  <a align="justify" style="display:table-cell;" href="https://github.com/guibperes/express-api-no-orm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guibperes&repo=express-api-no-orm" />
+  </a>
+  <a align="justify" style="display:table-cell;" href="https://github.com/guibperes/express-api-sequelize">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guibperes&repo=express-api-sequelize" />
+  </a>
+  <a align="justify" style="display:table-cell;" href="https://github.com/guibperes/show-screen">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guibperes&repo=show-screen" />
+  </a>
+  <a align="justify" style="display:table-cell;" href="https://github.com/guibperes/remote-slide-controller">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guibperes&repo=remote-slide-controller" />
+  </a>
+  <a align="justify" style="display:table-cell;" href="https://github.com/guibperes/guibperes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guibperes&repo=guibperes" />
+  </a>
+  <a align="justify" style="display:table-cell;" href="https://github.com/guibperes/zup-lottery">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guibperes&repo=zup-lottery" />
+  </a>
+  <a align="justify" style="display:table-cell;" href="https://github.com/guibperes/library-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guibperes&repo=library-api" />
+  </a>
+  <a align="justify" style="display:table-cell;" href="https://github.com/guibperes/spring-api-dockerfile">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guibperes&repo=spring-api-dockerfile" />
+  </a>
+  <a align="justify" style="display:table-cell;" href="https://github.com/guibperes/nextcloud-deploy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guibperes&repo=nextcloud-deploy" />
+  </a>
+</div>
