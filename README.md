@@ -19,9 +19,12 @@ Feel free to call me on LinkedIn! Cheers :beers:
 
 ### :chart_with_upwards_trend: My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=guibperes&theme=radical&custom_title=GitHub+Stats)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=guibperes&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a align="justify" href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=guibperes&theme=radical&custom_title=GitHub+Stats" />
+</a>
+<a align="justify" href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibperes&theme=radical&layout=compact" />
+</a>
 
 ---
 
