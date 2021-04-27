@@ -1,6 +1,5 @@
 ## Hi there :v:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/guibperes)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/guilherme-beidaki-peres-5b4904196)
 [![ProtonMail Badge](https://img.shields.io/badge/-ProtonMail-8B89CC?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto://guibperes@protonmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/guibperes)
@@ -15,3 +14,11 @@ __"I like challenges that take me beyond what I am capable of!"__
 <br/>:memo: In love with Python and Go
 
 Feel free to add me on LinkedIn and call me on Instagram! Cheers :beers:
+
+---
+
+### :chart_with_upwards_trend: My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=guibperes&theme=radical&custom_title=GitHub+Stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=guibperes&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
