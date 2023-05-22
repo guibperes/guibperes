@@ -11,6 +11,6 @@ __"I like challenges that take me beyond what I am capable of!"__
 <br/>:books: Software Engineer
 <br/>:computer: Linux is my $HOME
 <br/>:coffee: Javascript, Typescript, NodeJS, Java
-<br/>:memo: In love with Rust
+<br/>:memo: In love with Rust and Deno
 
 Feel free to call me on LinkedIn! Cheers :beers:
