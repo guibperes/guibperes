@@ -1,6 +1,6 @@
 ## Hi there :v:, I'm Guilherme
 
-[![ProtonMail Badge](https://img.shields.io/badge/-ProtonMail-8B89CC?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto://guibperes@protonmail.com)
+[![ProtonMail Badge](https://img.shields.io/badge/-ProtonMail-8B89CC?style=for-the-badge&logo=ProtonMail&logoColor=white)](mailto://guibperes@proton.me)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/guilherme-beidaki-peres-5b4904196)
 
 __"I like challenges that take me beyond what I am capable of!"__
